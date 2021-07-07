@@ -12,7 +12,7 @@
 - Kişisel blogumu [ziyaret](https://them4f.me) edebilirsin!
 
 
-<h3><img src="https://media.discordapp.net/attachments/803230448481468486/862296335793127474/c93187fb-f2b8-4d5f-a30b-ea4f5cf3601a.gif" width="20px"> Sosyal Medya Hesaplarım</h3>
+<h2><img src="https://media.discordapp.net/attachments/803230448481468486/862296335793127474/c93187fb-f2b8-4d5f-a30b-ea4f5cf3601a.gif" width="20px"> Sosyal Medya Hesaplarım</h2>
 <p align="left">
      <a href="https://instagram.com/_ardapk_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://twitch.tv/vittirivizzikadam_" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
