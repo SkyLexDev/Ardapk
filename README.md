@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px"> Merhaba Github!
-<img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="100px">
+<img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="180px">
 
 
 🎉 Herkese selamlar
