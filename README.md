@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="140px">
 
 
-🎉 Herkese selamlar
+<img src="https://media.discordapp.net/attachments/803230448481468486/862296335470690324/hypesquad.png" width="27px"> Herkese selamlar
 
 - Kendimden biraz bahsedeyim. Ben **Ardapk** namı diğer [Vıttırı Vızzık ADAMツ(VVA)](https://github.com/Ardapk) 17 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim. 
 1 - 2 yıla yakındır yazılımla ilgileniyorum, bana yazılımı sevdiren ve her zaman destekçim olan [Aktila](https://github.com/AktilaCengiz)'ya teşekkürlerimi sunuyorum :)
