@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px"> Merhaba Github!
-<img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="140px">
+<img src="https://media.discordapp.net/attachments/803230448481468486/862296335470690324/hypesquad.png" width="27px"> <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="140px">
 
 
-<img src="https://media.discordapp.net/attachments/803230448481468486/862296335470690324/hypesquad.png" width="18px" height="18px"> Herkese selamlar
+<h4>Herkese selamlar</h4>
 
 - Kendimden biraz bahsedeyim. Ben **Ardapk** namı diğer [Vıttırı Vızzık ADAMツ(VVA)](https://github.com/Ardapk) 17 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim. 
 1 - 2 yıla yakındır yazılımla ilgileniyorum, bana yazılımı sevdiren ve her zaman destekçim olan [Aktila](https://github.com/AktilaCengiz)'ya teşekkürlerimi sunuyorum :)
