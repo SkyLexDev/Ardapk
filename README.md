@@ -20,6 +20,6 @@
         <a href="https://open.spotify.com/user/31ksxcafbd7gvrszhk2xhndbkyfa" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
    
-<img src="https://media.discordapp.net/attachments/803230448481468486/862293679683534878/20210707_142630.jpg"/>
+<img src="https://media.discordapp.net/attachments/803230448481468486/862293679683534878/20210707_142630.jpg" alt="Ardapk" />
 
 </p>
