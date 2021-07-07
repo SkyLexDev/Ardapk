@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Merhaba Github!
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px"> Merhaba Github!
 <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" alt="Ardapk" />
 
 
