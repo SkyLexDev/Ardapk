@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px"> Merhaba Github!
-<img src="https://media.discordapp.net/attachments/803230448481468486/862296335470690324/hypesquad.png" width="27px"> <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="140px">
+ <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" width="140px"> <img src="https://media.discordapp.net/attachments/803230448481468486/862296335470690324/hypesquad.png" width="27px">
 
 
 🎉 Herkese selamlar
