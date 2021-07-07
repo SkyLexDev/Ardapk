@@ -9,7 +9,7 @@
 
 - Yoksa hâlâ [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e göz atmadın mı ?
 
-- Kişisel blogumu [ziyaret](https://them4f.me) edebilirsin!
+- Kişisel blogumu [ziyaret](https://ardapk.cf) edebilirsin!
 
 
 <h2><img src="https://media.discordapp.net/attachments/803230448481468486/862296335793127474/c93187fb-f2b8-4d5f-a30b-ea4f5cf3601a.gif" width="23px"> Sosyal Medya Hesaplarım</h2>
