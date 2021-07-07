@@ -1,4 +1,4 @@
-## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Merhaba Github!
 <img src="https://komarev.com/ghpvc/?username=Ardapk&label=Ziyaretçi%20Sayısı&color=a57dff" alt="Ardapk" />
 
 
@@ -12,7 +12,7 @@
 - Kişisel blogumu [ziyaret](https://them4f.me) edebilirsin!
 
 
-<h3>🌟 Bulunduğum Diğer Platformlar</h3>
+<h3>🌟 Sosyal Medya Hesaplarım</h3>
 <p align="left">
      <a href="https://instagram.com/_ardapk_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://twitch.tv/vittirivizzikadam_" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
