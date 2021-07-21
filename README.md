@@ -21,5 +21,7 @@
     
    
 <img src="https://media.discordapp.net/attachments/803230448481468486/862293679683534878/20210707_142630.jpg" alt="Ardapk" />
-
+<a href="https://discord.com/users/720345775040888984" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/720345775040888984?bg=111111">
+   </a>
 </p>
